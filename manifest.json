@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "baseURL": "https://github.com/agik66/subten-models/releases/download/v1/",
+  "tiers": {
+    "legacy": {
+      "files": [
+        {"name": "subten-base-q4-00001-of-00002.gguf", "bytes": 1914327040},
+        {"name": "subten-base-q4-00002-of-00002.gguf", "bytes": 1192409440}
+      ]
+    },
+    "standard": {
+      "files": [
+        {"name": "subten-base-q5-00001-of-00002.gguf", "bytes": 1658122784},
+        {"name": "subten-base-q5-00002-of-00002.gguf", "bytes": 1697912608}
+      ]
+    }
+  }
+}
